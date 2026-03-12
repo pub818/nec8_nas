@@ -7,7 +7,7 @@
 ![处理后的铝挤压材清单](../Assets/alu_specs.jpg)
 *注：图中展示为项目实际切割完成后的型材，带有保护膜，采用中性背景净化处理以突出规格。*
 
-## 铝挤压材下料清单 (Alu Extrusion BOM)
+## 铝型材下料清单 (Alu Extrusion BOM)
 
 本项目使用 **2020 欧标 (European Standard)** 和 **2040 欧标** 银色阳极氧化铝型材。
 
