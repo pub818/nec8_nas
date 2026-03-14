@@ -4,7 +4,7 @@
 
 ## 框架结构插图 (BOM Visual)
 
-![处理后的铝挤压材清单](../Assets/alu_specs.jpg)
+![处理后的铝挤压材清单](../Assets/alu_specs.png)
 *注：图中展示为项目实际切割完成后的型材，带有保护膜，采用中性背景净化处理以突出规格。*
 
 ## 铝型材下料清单 (Alu Extrusion BOM)
